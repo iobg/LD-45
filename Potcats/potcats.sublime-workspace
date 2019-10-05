@@ -1,0 +1,201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/iobg0/LD-45/Potcats/potcats.sublime-project",
+		"/C/Users/iobg0/LD-45/.gitignore",
+		"/C/Users/iobg0/Desktop/spicetools/api/cpp/spiceapi/wrappers.cpp",
+		"/C/Users/iobg0/Desktop/spicetools/src/spicetools-master/spicetools/acio/i36g/i36g.cpp",
+		"/C/Users/iobg0/Desktop/spicetools/src/spicetools-master/spicetools/acio/klpa/klpa.cpp",
+		"/C/Program Files (x86)/Steam/userdata/86050418/632360/remote/UserProfiles/backup.xml",
+		"/C/Users/iobg0/Desktop/spicetools/src/spicetools-master/spicetools/changelog.txt",
+		"/C/Users/iobg0/Desktop/spicetools/src/spicetools-master/spicetools/games/iidx/iidx.cpp",
+		"/C/Program Files (x86)/Steam/userdata/86050418/632360/remote/UserProfiles/ea16c3c1-3968-4b67-a267-d52661d82e36.xml",
+		"/C/Program Files (x86)/Steam/userdata/86050418/632360/remote/UserProfiles/3d6136c0-3db4-439f-8a16-30109928ccb0.xml",
+		"/C/Users/iobg0/Desktop/spicetools/src/spicetools-master/spicetools/acio/bi2a/bi2a.cpp",
+		"/C/Users/iobg0/workspace/learning-time/index.html",
+		"/C/Users/iobg0/Desktop/dontlosethis.pem",
+		"/C/Users/iobg0/workspace/learning-time/main.js",
+		"/C/Users/iobg0/workspace/learning-time/main.css",
+		"/D/freeleech/I00/iidxhook-16.conf",
+		"/D/Games/Hatsune Miku Project DIVA Arcade Future Tone/plugins/keyconfig.ini",
+		"/C/ProgramData/Epic/EpicGamesLauncher/Data/Manifests/ED9C570340088D6DB127B69863AEB34E.item",
+		"/D/SteamLibrary/steamapps/common/SlayTheSpire/betaPreferences/STSSaveSlots",
+		"/D/freeleech/[RH] Kanashimi no Belladonna [838F149B].mkv",
+		"/D/SteamLibrary/steamapps/common/Risk of Rain/Save.ini",
+		"/C/Users/iobg0/Downloads/discordintegration.json"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "potcats.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
